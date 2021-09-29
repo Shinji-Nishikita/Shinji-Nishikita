@@ -26,4 +26,6 @@ I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-![Shinji-Nishikita github stats](https://github-readme-stats.vercel.app/api?username=Shinji-Nishikita)
+![Shinji-Nishikita github stats](https://github-readme-stats.vercel.app/api?username=Shinji-Nishikita&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinji-Nishikita&layout=compact&theme=tokyonight)
