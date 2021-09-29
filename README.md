@@ -1,4 +1,5 @@
-### Hi there 👋
+## Welcome to my page :open_hands:
+### Hi, I'm Shinji Nishikita 👋
 
 <!--
 **Shinji-Nishikita/Shinji-Nishikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
