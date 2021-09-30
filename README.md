@@ -2,6 +2,7 @@
 <!-- ![](https://media.giphy.com/media/5lWtoCrjLeqSUyUzPJ/giphy.gif) -->
 <!-- ![](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g) -->
 <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g" width="240px" height="180px"/>
+
 **I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:**
 
 With backgrounds as:  
