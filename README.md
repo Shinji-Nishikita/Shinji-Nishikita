@@ -1,10 +1,16 @@
 ## Hello! Nice to see you! :open_hands:
-Welcome to my page!
+![](https://media.giphy.com/media/5lWtoCrjLeqSUyUzPJ/giphy.gif?cid=ecf05e47dra3ihxcyo5ifd79fgz83ycrp0d6myptp169f2ei&rid=giphy.gif&ct=g)
 
-&nbsp;
-I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
+**I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:**
 
-### Things I code with
+With backgrounds as:  
+・:rocket: Sales experience for over 10 years.  
+・:sunglasses: Dancer - performed overseas, Tokyo Disney Resort
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinji-nishikita/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinji-Nishikita)
+
+## Things I code with
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -27,12 +33,9 @@ I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+
 ![Shinji-Nishikita github stats](https://github-readme-stats.vercel.app/api?username=Shinji-Nishikita&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinji-Nishikita&layout=compact&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinji-Nishikita&theme=github_dark)
 
-![github-chart](https://github-chart.vercel.app/api?user=Shinji-Nishikita)
-
-### Where to find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinji-nishikita/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinji-Nishikita)
+<!-- ![github-chart](https://github-chart.vercel.app/api?user=Shinji-Nishikita) -->
