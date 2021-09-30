@@ -34,4 +34,5 @@ I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
 ![github-chart](https://github-chart.vercel.app/api?user=Shinji-Nishikita)
 
 ### Where to find me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shinji-nishikita/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinji-nishikita/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinji-Nishikita)
