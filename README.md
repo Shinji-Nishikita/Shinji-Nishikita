@@ -1,6 +1,7 @@
 ## Hello! Nice to see you! :open_hands:
-![](https://media.giphy.com/media/5lWtoCrjLeqSUyUzPJ/giphy.gif?cid=ecf05e47dra3ihxcyo5ifd79fgz83ycrp0d6myptp169f2ei&rid=giphy.gif&ct=g)
-
+<!-- ![](https://media.giphy.com/media/5lWtoCrjLeqSUyUzPJ/giphy.gif) -->
+<!-- ![](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g) -->
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g" width="240px" height="180px"/>
 **I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:**
 
 With backgrounds as:  
