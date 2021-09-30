@@ -1,6 +1,7 @@
 ## Hello! Nice to see you! :open_hands:
 Welcome to my page!
 
+&nbsp;
 I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
 
 ### Things I code with
@@ -31,3 +32,6 @@ I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinji-Nishikita&theme=github_dark)
 
 ![github-chart](https://github-chart.vercel.app/api?user=Shinji-Nishikita)
+
+### Where to find me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shinji-nishikita/)
