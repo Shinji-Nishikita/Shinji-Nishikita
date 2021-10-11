@@ -36,8 +36,9 @@ With backgrounds as:
 </p>
 
 
-![Shinji-Nishikita github stats](https://github-readme-stats.vercel.app/api?username=Shinji-Nishikita&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinji-Nishikita&layout=compact&theme=tokyonight)
-
+<!-- ![Shinji-Nishikita github stats](https://github-readme-stats.vercel.app/api?username=Shinji-Nishikita&show_icons=true&theme=tokyonight)  -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinji-Nishikita&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinji-Nishikita&layout=compact&theme=tokyonight)
+
 
 <!-- ![github-chart](https://github-chart.vercel.app/api?user=Shinji-Nishikita) -->
