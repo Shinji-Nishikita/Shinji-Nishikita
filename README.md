@@ -3,12 +3,16 @@
 <!-- ![](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g) -->
 <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif?cid=ecf05e47lxt3oes0ipyfauinypkkbszxufs89ece62ve5ztf&rid=giphy.gif&ct=g" width="240px" height="180px"/>
 
-**I'm Shinji Nishikita, Fullstack Software Engineer based in Tokyo :tokyo_tower:**
+**I'm Shinji Nishikita, Software Engineer based in Tokyo :tokyo_tower:**
 
 With backgrounds as:  
 ・:rocket: Sales experience for over 10 years.  
 ・:sunglasses: Dancer - performed overseas, Tokyo Disney Resort
 
+I'm leraning now:  
+・Golang
+  
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinji-nishikita/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinji-Nishikita)
 
